@@ -1,4 +1,4 @@
-# Swagger
+# Swagger with Tests
 
 Your task is:
 - add required dependencies
